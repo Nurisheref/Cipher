@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 10 13:49:26 2024
 
-@author: shere
+@author: Sk
 """
 
 import streamlit as st
